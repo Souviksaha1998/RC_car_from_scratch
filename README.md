@@ -7,7 +7,7 @@
 ***
 
 ### Image - 2
-<img src='Images\IMG_20230726_173747.jpg'
+<img src='Images\IMG_20230726_173747.jpg'>
 
 ### Youtube video link :
 https://youtu.be/no327ulIsFI
