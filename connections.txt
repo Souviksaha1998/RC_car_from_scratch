@@ -1,0 +1,37 @@
+Front Motor ->
+(board pins)
+
+( follow this order from left -> blue , orange , green , yellow)
+# enA -> motor
+Blue - 11
+Orange - 13
+
+# enB -> motor
+Green - 15
+Yellow - 37
+
+Back Motor ->
+(board pins)
+
+( follow this order from left -> White , black , brown , red)
+
+# enA -> motor
+white - 16
+Black - 18
+
+# enB -> motor
+Brown - 22
+Red - 36
+
+
+
+
+LED ->
+
+red - 35
+green - 31
+registor - 220ohm
+
+5v converter ->
+
+Ground connection you can do any one
